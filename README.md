@@ -85,7 +85,6 @@ I'm a software developer passionate about **game modding**, **native Android app
 | **📱 Mobile & Embedded** | Native Android applications (Kotlin), system services, and Arduino hardware prototyping. |
 | **🎨 Front-End Design** | High-performance, clean, mobile-friendly interfaces with modern dark themes. |
 | **⚙️ Back-End & APIs** | Scalable REST APIs, asynchronous services, and robust database architecture (.NET & PHP). |
-| **🤖 Automation & Extensions** | Chromium extensions (Manifest V3), automation scripts, and custom developer workflows. |
 
 ---
 
