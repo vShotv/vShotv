@@ -1,21 +1,21 @@
 <div align="center">
 
-# ⚡ Hey there, I'm <span style="color: #7aa2f7;">vShotv</span> 👋
+# Hey there, I'm <span style="color: #7aa2f7;">vShotv</span> 👋
 
-<!-- TYPING SVG -->
+<!-- DYNAMIC TYPING BANNER -->
 <a href="https://github.com/vShotv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Game+Modder+%26+Reverse+Engineer;Full-Stack+Web+Developer;C%23+%2F+.NET+%26+Native+Systems;Building+Custom+Tools+%26+Engines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Game+Modder+%26+Tool+Developer;Full-Stack+Web+Developer;C%23+%2F+.NET+%26+Backend+Dev;Creative+Software+Builder" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Tinkering with game binaries, crafting full-stack web applications, and building modern software.</b>
+  <b>Building custom game mods, crafting full-stack web applications, and writing modern software.</b>
 </p>
 
-<!-- BADGES -->
+<!-- HIGHLIGHT BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Game_Modding_%26_Systems-blueviolet?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Game_Modding_%26_Tools-blueviolet?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-Full--Stack_Web-00f2fe?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building_Cool_Projects-success?style=for-the-badge" />
 </p>
 
 </div>
@@ -24,27 +24,23 @@
 
 ### 🎮 About Me
 
-```yaml
-identity: vShotv
-role: Full-Stack Developer & Game Modder
-passions:
-  - Dissecting game architectures, memory structures, and custom asset formats
-  - Engineering responsive Front-End interfaces with high-performance Back-End APIs
-  - Reverse engineering binaries, script automation, and custom tooling
-motto: "If it runs on a machine, it can be customized."
-```
+I'm a software developer passionate about **game modding**, **custom tool development**, and **full-stack web applications**. I enjoy building solutions that connect creative ideas with solid technical implementations.
+
+* 🕹️ **Game Modding & Tools:** Developing game modifications, custom asset tools, and gameplay scripts.
+* 🌐 **Full-Stack Web:** Crafting clean, responsive front-end interfaces backed by reliable server-side APIs.
+* ⚙️ **Backend & Systems:** Architecting performant applications using **C# (.NET)**, **PHP**, and modern databases.
+* 🚀 **Always Building:** Constantly experimenting with new frameworks, game systems, and developer tooling.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🎮 Game Modding & Reverse Engineering
+#### 🎮 Game Modding & Scripting
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hex_&_Binary_Patching-181717?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
 <br/>
@@ -71,14 +67,14 @@ motto: "If it runs on a machine, it can be customized."
 
 ---
 
-### 🚀 Focus Areas
+### 🚀 What I Do
 
 | Domain | Description |
 | :--- | :--- |
-| **🎮 Game Modding & Tooling** | Reverse engineering game engines (CR2W, SWF, PAK archives), localization patches & runtime script modding. |
-| **🎨 Front-End Interfaces** | High-performance, reactive, dark-mode first, and mobile-friendly web interfaces. |
-| **⚙️ Back-End & APIs** | Scalable REST APIs, asynchronous background task architectures, and database design (.NET / PHP). |
-| **🤖 Automation & Extensions** | Chromium extensions (Manifest V3), telemetry/monitoring services, and custom developer tools. |
+| **🎮 Game Modding & Tools** | Creating custom gameplay mods, asset tools, localization patches, and engine scripts. |
+| **🎨 Front-End Design** | High-performance, clean, mobile-friendly interfaces with modern dark themes. |
+| **⚙️ Back-End & APIs** | Scalable REST APIs, asynchronous services, and robust database architecture (.NET & PHP). |
+| **🤖 Automation & Extensions** | Chromium extensions (Manifest V3), automation scripts, and custom developer workflows. |
 
 ---
 
@@ -93,5 +89,5 @@ motto: "If it runs on a machine, it can be customized."
 <br/>
 
 <div align="center">
-  <sub>⚡ Designed with precision by <a href="https://github.com/vShotv">vShotv</a></sub>
+  <sub>Designed with precision by <a href="https://github.com/vShotv">vShotv</a></sub>
 </div>
