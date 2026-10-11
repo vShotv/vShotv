@@ -4,7 +4,7 @@
 
 <!-- DYNAMIC TYPING BANNER -->
 <a href="https://github.com/vShotv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Game+Modder+%26+Tool+Developer;Full-Stack+Web+Developer;C%23+%2F+.NET+%26+Backend+Dev;Creative+Software+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Game+Modder+%26+Tool+Developer;Full-Stack+Web+Developer;Android+%26+Kotlin+Developer;Arduino+%26+Hardware+Tinkerer" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -24,12 +24,13 @@
 
 ### 🎮 About Me
 
-I'm a software developer passionate about **game modding**, **custom tool development**, and **full-stack web applications**. I enjoy building solutions that connect creative ideas with solid technical implementations.
+I'm a software developer passionate about **game modding**, **native Android apps**, **full-stack web**, and **embedded hardware tinkering**. I enjoy building solutions that connect creative ideas with solid technical implementations.
 
 * 🕹️ **Game Modding & Tools:** Developing game modifications, custom asset tools, and gameplay scripts.
+* 📱 **Android & Kotlin:** Native Android development, background services, and APK modding.
 * 🌐 **Full-Stack Web:** Crafting clean, responsive front-end interfaces backed by reliable server-side APIs.
 * ⚙️ **Backend & Systems:** Architecting performant applications using **C# (.NET)**, **PHP**, and modern databases.
-* 🚀 **Always Building:** Constantly experimenting with new frameworks, game systems, and developer tooling.
+* ⚡ **Arduino & Hardware:** Microcontroller programming, robotics, and custom IoT sensor integration.
 
 ---
 
@@ -41,6 +42,15 @@ I'm a software developer passionate about **game modding**, **custom tool develo
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</div>
+
+<br/>
+
+#### 📱 Mobile & Hardware
+<div>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
 <br/>
@@ -72,6 +82,7 @@ I'm a software developer passionate about **game modding**, **custom tool develo
 | Domain | Description |
 | :--- | :--- |
 | **🎮 Game Modding & Tools** | Creating custom gameplay mods, asset tools, localization patches, and engine scripts. |
+| **📱 Mobile & Embedded** | Native Android applications (Kotlin), system services, and Arduino hardware prototyping. |
 | **🎨 Front-End Design** | High-performance, clean, mobile-friendly interfaces with modern dark themes. |
 | **⚙️ Back-End & APIs** | Scalable REST APIs, asynchronous services, and robust database architecture (.NET & PHP). |
 | **🤖 Automation & Extensions** | Chromium extensions (Manifest V3), automation scripts, and custom developer workflows. |
