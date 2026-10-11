@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm <span style="color: #7aa2f7;">vShotv</span> 👋
+# Hey there, I'm <span style="color: #7aa2f7;">Shot</span> 👋
 
 <!-- DYNAMIC TYPING BANNER -->
 <a href="https://github.com/vShotv">
