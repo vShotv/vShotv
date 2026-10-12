@@ -1,12 +1,12 @@
-<!-- HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,60:0d0d0d,100:0a0a2e&height=220&section=header&text=SHOT&fontSize=150&fontColor=e0af68&fontAlignY=70&fontAlign=25&fontFamily=Courier%20New&desc=SOFTWARE%20DEVELOPER%20%2F%20GAME%20MODDER%20%2F%20HARDWARE%20ENGINEER&descSize=13&descAlign=60&descAlignY=75&descColor=ffffff&animation=fadeIn" />
+<!-- HERO â€” waving type, fixed vertical positions: SHOT at 42% (126px), desc at 72% (216px) = 90px gap, no overlap -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a1e,100:0d0d2e&height=300&section=header&text=SHOT&fontSize=150&fontColor=e0af68&fontAlignY=42&fontAlign=30&fontFamily=Courier%20New&desc=SOFTWARE%20DEVELOPER%20%2F%20GAME%20MODDER%20%2F%20HARDWARE%20ENGINEER&descSize=14&descAlign=63&descAlignY=72&descColor=ffffff&animation=twinkling&stroke=e0af68&strokeWidth=1" />
 
 <div align="center">
 
 <br/>
 
 ![Views](https://komarev.com/ghpvc/?username=vShotv&color=e0af68&style=flat-square&label=profile+views)
-&nbsp;·&nbsp;
+&nbsp;Â·&nbsp;
 [![Follow](https://img.shields.io/github/followers/vShotv?style=flat-square&color=7aa2f7&labelColor=000000&label=followers)](https://github.com/vShotv?tab=followers)
 
 <br/><br/>
@@ -27,9 +27,9 @@
 ### `01` &nbsp; IDENTITY
 
 ```
-  HANDLE   ──  Shot
-  ROLE     ──  Software Developer
-  DOMAINS  ──  Game Modding  /  Android
+  HANDLE   â”€â”€  Shot
+  ROLE     â”€â”€  Software Developer
+  DOMAINS  â”€â”€  Game Modding  /  Android
                Full-Stack Web  /  Embedded HW
 
   "If it runs on a machine, it can be customized."
@@ -53,25 +53,25 @@
 
 <div align="center">
 
-<sub><b>🎮 &nbsp; GAME MODDING & SCRIPTING</b></sub>
+<sub><b>ğŸ® &nbsp; GAME MODDING & SCRIPTING</b></sub>
 <br/><br/>
 [![Game](https://skillicons.dev/icons?i=cs,cpp,py,lua&theme=dark)](https://skillicons.dev)
 
 <br/><br/>
 
-<sub><b>📱 &nbsp; MOBILE & EMBEDDED</b></sub>
+<sub><b>ğŸ“± &nbsp; MOBILE & EMBEDDED</b></sub>
 <br/><br/>
 [![Mobile](https://skillicons.dev/icons?i=kotlin,androidstudio,arduino&theme=dark)](https://skillicons.dev)
 
 <br/><br/>
 
-<sub><b>🌐 &nbsp; FULL-STACK WEB & BACKEND</b></sub>
+<sub><b>ğŸŒ &nbsp; FULL-STACK WEB & BACKEND</b></sub>
 <br/><br/>
 [![Web](https://skillicons.dev/icons?i=js,html,css,tailwind,php,mysql&theme=dark)](https://skillicons.dev)
 
 <br/><br/>
 
-<sub><b>🧰 &nbsp; SYSTEMS & TOOLS</b></sub>
+<sub><b>ğŸ§° &nbsp; SYSTEMS & TOOLS</b></sub>
 <br/><br/>
 [![Tools](https://skillicons.dev/icons?i=dotnet,git,vscode,visualstudio,postman&theme=dark)](https://skillicons.dev)
 
@@ -85,40 +85,40 @@
 <tr>
 <td width="50%" valign="top">
 
-**🎮 &nbsp; Game Modding & Tools**
+**ğŸ® &nbsp; Game Modding & Tools**
 > Custom gameplay mods, asset tools,
 > localization patches & trainer dev.
 >
-> *ETS2 · Witcher 3 · Unity · GTA*
+> *ETS2 Â· Witcher 3 Â· Unity Â· GTA*
 
 </td>
 <td width="50%" valign="top">
 
-**📱 &nbsp; Mobile & Embedded**
+**ğŸ“± &nbsp; Mobile & Embedded**
 > Native Android apps (Kotlin),
 > device policy services & Arduino builds.
 >
-> *Kotlin · Android SDK · Arduino*
+> *Kotlin Â· Android SDK Â· Arduino*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🎨 &nbsp; Front-End Design**
+**ğŸ¨ &nbsp; Front-End Design**
 > Dark-mode first, mobile-friendly,
 > high-performance web interfaces.
 >
-> *HTML · Tailwind · JavaScript*
+> *HTML Â· Tailwind Â· JavaScript*
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ &nbsp; Back-End & APIs**
+**âš™ï¸ &nbsp; Back-End & APIs**
 > REST APIs, async Discord bot systems,
 > WebSocket backends & database design.
 >
-> *.NET 8 · PHP · SQLite · MySQL*
+> *.NET 8 Â· PHP Â· SQLite Â· MySQL*
 
 </td>
 </tr>
