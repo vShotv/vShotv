@@ -1,78 +1,79 @@
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                        CINEMATIC HEADER                           -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CINEMATIC HERO HEADER                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:7aa2f7&height=220&section=header&text=vShotv&fontSize=90&fontColor=ffffff&fontAlignY=38&fontFamily=Courier%20New&desc=GAME%20MODDER%20%E2%80%A2%20FULL-STACK%20DEV%20%E2%80%A2%20HARDWARE%20TINKERER&descSize=18&descAlignY=62&descColor=7aa2f7&animation=fadeIn&stroke=7aa2f7&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:060616,70:0a0a2e,100:0d1117&height=280&section=header&text=SHOT&fontSize=130&fontColor=ffffff&fontAlignY=45&fontFamily=Courier%20New&fontStyle=bold&desc=GAME%20MODDER%20%E2%80%A2%20FULL-STACK%20DEV%20%E2%80%A2%20EMBEDDED%20ENGINEER&descSize=15&descAlignY=67&descColor=7aa2f7&animation=scaleIn&stroke=7aa2f7&strokeWidth=3" />
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                      TYPING ANIMATION STRIP                       -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ANIMATED TYPING TITLE                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <a href="https://github.com/vShotv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2800&pause=1200&color=7AA2F7&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Game+Modder+%26+Tool+Developer+%F0%9F%8E%AE;Full-Stack+Web+Developer+%F0%9F%8C%90;Android+%26+Kotlin+Engineer+%F0%9F%93%B1;Arduino+%26+Hardware+Tinkerer+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=28&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=65&lines=%E2%96%BA+GAME+MODDER+%26+TOOL+DEVELOPER;%E2%96%BA+FULL-STACK+WEB+DEVELOPER;%E2%96%BA+ANDROID+%26+KOTLIN+ENGINEER;%E2%96%BA+ARDUINO+%26+HARDWARE+TINKERER" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/%E2%96%BA%20STATUS-BUILDING%20COOL%20STUFF-7aa2f7?style=for-the-badge&labelColor=0d0d0d&color=7aa2f7" />
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%96%BA%20OPEN%20TO-COLLABS-bb9af7?style=for-the-badge&labelColor=0d0d0d&color=bb9af7" />
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%96%BA%20BASE-TURKEY%20%F0%9F%87%B9%F0%9F%87%B7-e0af68?style=for-the-badge&labelColor=0d0d0d&color=e0af68" />
+<img src="https://img.shields.io/badge/%E2%96%88%20OPEN%20TO%20COLLABS-%20-7aa2f7?style=for-the-badge&labelColor=0d1117&color=7aa2f7" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%E2%96%88%20ALWAYS%20BUILDING-%20-bb9af7?style=for-the-badge&labelColor=0d1117&color=bb9af7" />
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                      DIVIDER — NEON LINE                          -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  NEON DIVIDER                                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:bb9af7&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:7aa2f7&height=2&section=header" width="100%" />
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                         ABOUT ME BLOCK                            -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  ABOUT ME + STATS — TWO COLUMN                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<table width="100%">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### `> WHO AM I`
+<div align="left">
 
+```ansi
+╔══════════════════════════════════════╗
+║           IDENTITY CARD              ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  HANDLE   ›  Shot                    ║
+║  ROLE     ›  Software Developer      ║
+║                                      ║
+║  ◈  Game Modding & Custom Tools      ║
+║  ◈  Android / Kotlin Engineering     ║
+║  ◈  Full-Stack Web Applications      ║
+║  ◈  Backend APIs & .NET Systems      ║
+║  ◈  Arduino & Embedded Hardware      ║
+║                                      ║
+║  "If it runs on a machine,           ║
+║   it can be customized."             ║
+║                                      ║
+╚══════════════════════════════════════╝
 ```
-┌─────────────────────────────────────────┐
-│                                         │
-│   NAME    :  Shot / vShotv              │
-│   ROLE    :  Software Developer         │
-│   ENGINE  :  .NET  |  Android  |  Web  │
-│   SIGNAL  :  ALWAYS BUILDING           │
-│                                         │
-│   ⬡  Game Modding & Custom Tools       │
-│   ⬡  Android / Kotlin Development      │
-│   ⬡  Full-Stack Web Applications       │
-│   ⬡  Backend APIs & Systems            │
-│   ⬡  Arduino / Embedded Hardware       │
-│                                         │
-│   "If it runs on a machine,            │
-│    it can be improved."                 │
-│                                         │
-└─────────────────────────────────────────┘
-```
+
+</div>
 
 </td>
-<td width="45%" valign="top" align="right">
+<td width="50%" valign="top" align="center">
 
-### `> LIVE STATS`
+<img src="https://github-readme-stats.vercel.app/api?username=vShotv&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=0d1117&count_private=true&rank_icon=github" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=vShotv&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=0d0d0d&ring_color=7aa2f7&count_private=true" width="100%" />
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vShotv&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=7aa2f7&ring=bb9af7&fire=e0af68&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=vShotv&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=bb9af7&fire=e0af68&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89&sideNums=7aa2f7" width="100%" />
 
 </td>
 </tr>
@@ -80,228 +81,179 @@
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                    CINEMATIC SECTION DIVIDER                      -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  SECTION HEADER — TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=13&duration=99999&pause=99999&color=565f89&center=true&vCenter=true&width=700&height=20&lines=%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC+TECH+STACK+%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:0a0a2e,60:0a0a2e,100:0d1117&height=55&text=%E2%96%BA%E2%96%BA%20TECH%20STACK&fontSize=22&fontColor=7aa2f7&fontFamily=Courier%20New&fontAlignY=65" />
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                        TECH STACK SECTION                         -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<table width="100%">
-
-<!-- ROW 1 -->
-<tr>
-<td align="center" width="33%">
-
-**`🎮 GAME MODDING & SCRIPTING`**
-
-<br/>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0d0d0d)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d0d0d)
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0d0d0d)
-
-</td>
-<td align="center" width="33%">
-
-**`📱 MOBILE & HARDWARE`**
-
-<br/>
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0d0d0d)
-![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0d0d0d)
-
-<br/>
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0d0d0d)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0d0d0d)
-
-</td>
-<td align="center" width="33%">
-
-**`🌐 FULL-STACK WEB`**
-
-<br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d0d)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d0d)
-
-<br/>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d0d0d)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d0d0d)
-
-</td>
-</tr>
-
-<!-- SPACER ROW -->
-<tr><td colspan="3"><br/></td></tr>
-
-<!-- ROW 2 — TOOLS -->
-<tr>
-<td colspan="3" align="center">
-
-**`🧰 TOOLS & ENVIRONMENT`**
-
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d)
-&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d0d0d)
-&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0d0d0d)
-&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d0d0d)
-&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite_/_MySQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0d0d0d)
-
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                    CINEMATIC SECTION DIVIDER                      -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=13&duration=99999&pause=99999&color=565f89&center=true&vCenter=true&width=700&height=20&lines=%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC+WHAT+I+DO+%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC" />
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                        WHAT I DO — CARDS                          -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────┐
-│  🎮  GAME MODDING & TOOLS           │
-├──────────────────────────────────────┤
-│                                      │
-│  Custom gameplay mods, asset tools,  │
-│  localization patches, trainer       │
-│  development and engine scripts.     │
-│                                      │
-│  ETS2 · Witcher 3 · Unity · GTA     │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────┐
-│  📱  MOBILE & EMBEDDED              │
-├──────────────────────────────────────┤
-│                                      │
-│  Native Android apps (Kotlin),       │
-│  background system services,         │
-│  and Arduino hardware prototyping.   │
-│                                      │
-│  Kotlin · Android SDK · Arduino     │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────┐
-│  🎨  FRONT-END DESIGN               │
-├──────────────────────────────────────┤
-│                                      │
-│  High-performance, clean, mobile-    │
-│  friendly interfaces with modern     │
-│  dark-mode first aesthetics.         │
-│                                      │
-│  HTML · CSS · Tailwind · JS          │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────┐
-│  ⚙️  BACK-END & APIS                │
-├──────────────────────────────────────┤
-│                                      │
-│  Scalable REST APIs, async services, │
-│  and robust database architecture.   │
-│                                      │
-│  .NET 8 · PHP · SQLite · MySQL      │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                    CINEMATIC SECTION DIVIDER                      -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=13&duration=99999&pause=99999&color=565f89&center=true&vCenter=true&width=700&height=20&lines=%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC+GITHUB+STATS+%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC" />
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                        STATS SECTION                              -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  SKILL ICONS GRID — VISUAL ICONS, NOT BADGES             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vShotv&layout=donut&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=0d0d0d&langs_count=8" />
+**`🎮  GAME MODDING & SCRIPTING`**
+
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=cs,cpp,py,lua&theme=dark" /></a>
 
 <br/><br/>
 
-<!-- CONTRIBUTION GRAPH SNAKE -->
+**`📱  MOBILE & EMBEDDED`**
+
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,arduino&theme=dark" /></a>
+
+<br/><br/>
+
+**`🌐  FULL-STACK WEB`**
+
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=js,html,css,tailwind,dotnet,php,mysql&theme=dark" /></a>
+
+<br/><br/>
+
+**`🧰  TOOLS & ENVIRONMENT`**
+
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,postman&theme=dark" /></a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  SECTION HEADER — WHAT I DO                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:0a0a2e,60:0a0a2e,100:0d1117&height=55&text=%E2%96%BA%E2%96%BA%20WHAT%20I%20DO&fontSize=22&fontColor=bb9af7&fontFamily=Courier%20New&fontAlignY=65" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  DOMAIN CARDS — 2x2 GRID                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════════╗
+║  🎮  GAME MODDING & TOOLS           ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  Custom gameplay mods, asset tools,  ║
+║  localization patches and trainer    ║
+║  development & engine scripts.       ║
+║                                      ║
+║  › ETS2  › Witcher 3  › Unity       ║
+║  › GTA   › Undertale  › Youtubers   ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════════╗
+║  📱  MOBILE & EMBEDDED              ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  Native Android apps (Kotlin),       ║
+║  device policy & system services,    ║
+║  Arduino hardware prototyping.       ║
+║                                      ║
+║  › Kotlin  › Android SDK            ║
+║  › Arduino › WorkManager            ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════════╗
+║  🎨  FRONT-END DESIGN               ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  High-performance, dark-mode first   ║
+║  interfaces. Clean, responsive,      ║
+║  mobile-friendly web experiences.   ║
+║                                      ║
+║  › HTML5  › Tailwind  › JS          ║
+║  › CSS3   › Modern UI/UX            ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════════╗
+║  ⚙️  BACK-END & APIS                ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  Scalable REST APIs, async services, ║
+║  Discord bot architectures and       ║
+║  robust database design.             ║
+║                                      ║
+║  › .NET 8  › PHP  › SQLite          ║
+║  › WebSockets  › MySQL              ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  SECTION HEADER — GITHUB STATS                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:0a0a2e,60:0a0a2e,100:0d1117&height=55&text=%E2%96%BA%E2%96%BA%20GITHUB%20STATS&fontSize=22&fontColor=e0af68&fontFamily=Courier%20New&fontAlignY=65" />
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vShotv&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=0d1117&langs_count=8&card_width=320" />
+
+<br/><br/>
+
+<!-- GITHUB SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vShotv/vShotv/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vShotv/vShotv/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vShotv/vShotv/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/vShotv/vShotv/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                        CINEMATIC FOOTER                           -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  CINEMATIC FOOTER                                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:0a0a2e,100:0d0d0d&height=130&section=footer&text=DESIGNED%20WITH%20PRECISION&fontSize=20&fontColor=565f89&fontAlignY=65&fontFamily=Courier%20New&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:0d1117&height=120&section=footer&text=github.com%2FvShotv&fontSize=16&fontColor=ffffff&fontAlignY=70&fontFamily=Courier%20New&animation=fadeIn&reversal=true" width="100%" />
