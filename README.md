@@ -138,3 +138,4 @@
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a2e,100:000000&height=80&section=footer&text=github.com%2FvShotv&fontSize=14&fontColor=e0af68&fontAlign=82&fontAlignY=55&animation=fadeIn" width="100%" />
+      
