@@ -6,7 +6,7 @@
 <br/>
 
 ![Views](https://komarev.com/ghpvc/?username=vShotv&color=e0af68&style=flat-square&label=profile+views)
-&nbsp;·&nbsp;
+&nbsp;&nbsp;
 [![Follow](https://img.shields.io/github/followers/vShotv?style=flat-square&color=7aa2f7&labelColor=000000&label=followers)](https://github.com/vShotv?tab=followers)
 
 <br/><br/>
